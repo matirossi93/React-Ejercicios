@@ -1,0 +1,12 @@
+.contenedor{
+
+    background-color: burlywood;
+    width: 400px;
+    height: 500px;
+}
+
+.formulario{
+
+    background-color: aquamarine;
+    padding: 15px;
+}

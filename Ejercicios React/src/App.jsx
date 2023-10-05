@@ -1,12 +1,12 @@
 import './App.css'
-import Ejercicio6 from './components/Ejercicio6/Ejercicio6'
+import Ejercicio8 from './components/Ejercicio8/Ejercicio8'
 
 function App() {
   
 
   return (
     <>
-      <Ejercicio6 />
+      <Ejercicio8 />
     </>
   )
 }
